@@ -1,0 +1,4 @@
+1.1 
+	correction path hanning_window under linux
+1.2
+	hanning image in temp directory
